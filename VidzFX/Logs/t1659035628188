@@ -1,0 +1,11 @@
+--2022-07-28 15:13:48--  http://vidzfx.s3.amazonaws.com/updates/mac/appcast.xml
+Resolving vidzfx.s3.amazonaws.com (vidzfx.s3.amazonaws.com)... 52.217.37.124
+Connecting to vidzfx.s3.amazonaws.com (vidzfx.s3.amazonaws.com)|52.217.37.124|:80... connected.
+HTTP request sent, awaiting response... 200 OK
+Length: 315 [text/xml]
+Saving to: ‘/var/folders/l3/wrbl61pd0jx7fm2gyzd17sgc0000gn/T/appcast.xml’
+
+     0K                                                       100% 20.0M=0s
+
+2022-07-28 15:13:48 (20.0 MB/s) - ‘/var/folders/l3/wrbl61pd0jx7fm2gyzd17sgc0000gn/T/appcast.xml’ saved [315/315]
+

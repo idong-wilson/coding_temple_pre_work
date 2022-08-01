@@ -1,0 +1,11 @@
+--2022-07-28 14:26:38--  http://vidzfx.s3.amazonaws.com/updates/content/content.xml
+Resolving vidzfx.s3.amazonaws.com (vidzfx.s3.amazonaws.com)... 52.216.21.27
+Connecting to vidzfx.s3.amazonaws.com (vidzfx.s3.amazonaws.com)|52.216.21.27|:80... connected.
+HTTP request sent, awaiting response... 200 OK
+Length: 693 [text/xml]
+Saving to: ‘/var/folders/l3/wrbl61pd0jx7fm2gyzd17sgc0000gn/T/content.xml’
+
+     0K                                                       100%  330M=0s
+
+2022-07-28 14:26:38 (330 MB/s) - ‘/var/folders/l3/wrbl61pd0jx7fm2gyzd17sgc0000gn/T/content.xml’ saved [693/693]
+

@@ -1,0 +1,644 @@
+Debug: Number of screens: 2
+Debug: Primary screen: ""
+Debug:   Information for screen:     ""
+Debug:   Available geometry:         0 25 1920 x 985
+Debug:   Available size:             1920 x 985
+Debug:   Available virtual geometry: -1504 25 3424 x 985
+Debug:   Available virtual size:     3424 x 985
+Debug:   Depth:                      24 bits
+Debug:   Geometry:                   0 0 1920 x 1080
+Debug:   Logical DPI:                72
+Debug:   Logical DPI X:              72
+Debug:   Logical DPI Y:              72
+Debug:   Orientation:                "Landscape"
+Debug:   Physical DPI:               69
+Debug:   Physical DPI X:             69.5
+Debug:   Physical DPI Y:             68.5
+Debug:   Physical size:              701.698 x 400.467 mm
+Debug:   Primary orientation:        "Landscape"
+Debug:   Refresh rate:               60 Hz
+Debug:   Size:                       1920 x 1080
+Debug:   Virtual geometry:           -1504 0 3424 x 1080
+Debug:   Virtual size:               3424 x 1080
+Debug:   Device Pixel Ratio:         2
+Debug:   Information for screen:     ""
+Debug:   Available geometry:         -1504 25 1504 x 821
+Debug:   Available size:             1504 x 821
+Debug:   Available virtual geometry: -1504 25 3424 x 985
+Debug:   Available virtual size:     3424 x 985
+Debug:   Depth:                      24 bits
+Debug:   Geometry:                   -1504 0 1504 x 846
+Debug:   Logical DPI:                72
+Debug:   Logical DPI X:              72
+Debug:   Logical DPI Y:              72
+Debug:   Orientation:                "Landscape"
+Debug:   Physical DPI:               54
+Debug:   Physical DPI X:             54.5
+Debug:   Physical DPI Y:             53.5
+Debug:   Physical size:              700.947 x 401.652 mm
+Debug:   Primary orientation:        "Landscape"
+Debug:   Refresh rate:               60 Hz
+Debug:   Size:                       1504 x 846
+Debug:   Virtual geometry:           -1504 0 3424 x 1080
+Debug:   Virtual size:               3424 x 1080
+Debug:   Device Pixel Ratio:         2
+Debug: information "width=1920 logical=72 factor=0.75"
+Debug: "/Applications/VidzFX.app/Contents/MacOS/css/high_resolution.css"
+Debug: Invalid signature
+Debug: <QuickLicenseManager><creationDateUtc>2022-07-28 18:26:32</creationDateUtc><result>Your license was successfully activated.</result><pckey>UNQT0T0400G2HJKM8P1G6513PVPKFJ4CNH</pckey><computerID>Idongs-Mac-mini.local</computerID><userCompany></userCompany><userFullName>Idongesit Eakin</userFullName><userEmail>idongwilson@gmail.com</userEmail><productID>6</productID><productName>VidzFX</productName><majorVersion>1</majorVersion><minorVersion>0</minorVersion><status>2</status><features>0:2;</features><duration>-1</duration><floatingSeats>0</floatingSeats><numActivationsAllowed>1</numActivationsAllowed><availableLicenses>1</availableLicenses><expiryDate>1899-12-30 00:00</expiryDate><activationKey>AMTP0R0R00GHJ3K18N3Q6S14ME2SAPISXKUA4M</activationKey><userData></userData><serverDate>2022-07-28 18:26</serverDate><computerType>None</computerType></QuickLicenseManager>
+Debug: Downloading file:  "vidzfx.s3.amazonaws.com/updates/mac/appcast.xml" to:  "/var/folders/l3/wrbl61pd0jx7fm2gyzd17sgc0000gn/T/appcast.xml"
+Debug: "\"/Applications/VidzFX.app/Contents/MacOS/wget/wget\" vidzfx.s3.amazonaws.com/updates/mac/appcast.xml -O \"/var/folders/l3/wrbl61pd0jx7fm2gyzd17sgc0000gn/T/appcast.xml\""
+Debug: Downloading file:  "vidzfx.s3.amazonaws.com/updates/content/content.xml" to:  "/var/folders/l3/wrbl61pd0jx7fm2gyzd17sgc0000gn/T/content.xml"
+Debug: "\"/Applications/VidzFX.app/Contents/MacOS/wget/wget\" vidzfx.s3.amazonaws.com/updates/content/content.xml -O \"/var/folders/l3/wrbl61pd0jx7fm2gyzd17sgc0000gn/T/content.xml\""
+Debug: Downloading file:  "vidzfx.s3.amazonaws.com/updates/content/Max/15.rar" to:  "/var/folders/l3/wrbl61pd0jx7fm2gyzd17sgc0000gn/T/content.rar"
+Debug: "\"/Applications/VidzFX.app/Contents/MacOS/wget/wget\" vidzfx.s3.amazonaws.com/updates/content/Max/15.rar -O \"/var/folders/l3/wrbl61pd0jx7fm2gyzd17sgc0000gn/T/content.rar\""
+Debug: "\"/Applications/VidzFX.app/Contents/MacOS/rar\" x -o+ \"/var/folders/l3/wrbl61pd0jx7fm2gyzd17sgc0000gn/T/content.rar\" *.* \"/Users/idongwilson/Library/Application Support/VidzFX/content\""
+Debug: <QuickLicenseManager><creationDateUtc>2022-07-28 18:26:32</creationDateUtc><result>Your license was successfully activated.</result><pckey>UNQT0T0400G2HJKM8P1G6513PVPKFJ4CNH</pckey><computerID>Idongs-Mac-mini.local</computerID><userCompany></userCompany><userFullName>Idongesit Eakin</userFullName><userEmail>idongwilson@gmail.com</userEmail><productID>6</productID><productName>VidzFX</productName><majorVersion>1</majorVersion><minorVersion>0</minorVersion><status>2</status><features>0:2;</features><duration>-1</duration><floatingSeats>0</floatingSeats><numActivationsAllowed>1</numActivationsAllowed><availableLicenses>1</availableLicenses><expiryDate>1899-12-30 00:00</expiryDate><activationKey>AMTP0R0R00GHJ3K18N3Q6S14ME2SAPISXKUA4M</activationKey><userData></userData><serverDate>2022-07-28 18:26</serverDate><computerType>None</computerType></QuickLicenseManager>
+Debug: <QuickLicenseManager><creationDateUtc>2022-07-28 18:32:15</creationDateUtc><error>The activation key  was not found on the license server.</error><errorCode>203</errorCode><status>0</status></QuickLicenseManager>
+Debug: <QuickLicenseManager><creationDateUtc>2022-07-28 18:26:32</creationDateUtc><result>Your license was successfully activated.</result><pckey>UNQT0T0400G2HJKM8P1G6513PVPKFJ4CNH</pckey><computerID>Idongs-Mac-mini.local</computerID><userCompany></userCompany><userFullName>Idongesit Eakin</userFullName><userEmail>idongwilson@gmail.com</userEmail><productID>6</productID><productName>VidzFX</productName><majorVersion>1</majorVersion><minorVersion>0</minorVersion><status>2</status><features>0:2;</features><duration>-1</duration><floatingSeats>0</floatingSeats><numActivationsAllowed>1</numActivationsAllowed><availableLicenses>1</availableLicenses><expiryDate>1899-12-30 00:00</expiryDate><activationKey>AMTP0R0R00GHJ3K18N3Q6S14ME2SAPISXKUA4M</activationKey><userData></userData><serverDate>2022-07-28 18:26</serverDate><computerType>None</computerType></QuickLicenseManager>
+Debug: <QuickLicenseManager><creationDateUtc>2022-07-28 18:35:24</creationDateUtc><error>The activation key 4BH78931EC198874L was not found on the license server.</error><errorCode>203</errorCode><status>0</status></QuickLicenseManager>
+Debug: Number of screens: 2
+Debug: Primary screen: ""
+Debug:   Information for screen:     ""
+Debug:   Available geometry:         0 25 1920 x 985
+Debug:   Available size:             1920 x 985
+Debug:   Available virtual geometry: -1504 25 3424 x 985
+Debug:   Available virtual size:     3424 x 985
+Debug:   Depth:                      24 bits
+Debug:   Geometry:                   0 0 1920 x 1080
+Debug:   Logical DPI:                72
+Debug:   Logical DPI X:              72
+Debug:   Logical DPI Y:              72
+Debug:   Orientation:                "Landscape"
+Debug:   Physical DPI:               69
+Debug:   Physical DPI X:             69.5
+Debug:   Physical DPI Y:             68.5
+Debug:   Physical size:              701.698 x 400.467 mm
+Debug:   Primary orientation:        "Landscape"
+Debug:   Refresh rate:               60 Hz
+Debug:   Size:                       1920 x 1080
+Debug:   Virtual geometry:           -1504 0 3424 x 1080
+Debug:   Virtual size:               3424 x 1080
+Debug:   Device Pixel Ratio:         2
+Debug:   Information for screen:     ""
+Debug:   Available geometry:         -1504 25 1504 x 821
+Debug:   Available size:             1504 x 821
+Debug:   Available virtual geometry: -1504 25 3424 x 985
+Debug:   Available virtual size:     3424 x 985
+Debug:   Depth:                      24 bits
+Debug:   Geometry:                   -1504 0 1504 x 846
+Debug:   Logical DPI:                72
+Debug:   Logical DPI X:              72
+Debug:   Logical DPI Y:              72
+Debug:   Orientation:                "Landscape"
+Debug:   Physical DPI:               54
+Debug:   Physical DPI X:             54.5
+Debug:   Physical DPI Y:             53.5
+Debug:   Physical size:              700.947 x 401.652 mm
+Debug:   Primary orientation:        "Landscape"
+Debug:   Refresh rate:               60 Hz
+Debug:   Size:                       1504 x 846
+Debug:   Virtual geometry:           -1504 0 3424 x 1080
+Debug:   Virtual size:               3424 x 1080
+Debug:   Device Pixel Ratio:         2
+Debug: information "width=1920 logical=72 factor=0.75"
+Debug: "/Applications/VidzFX.app/Contents/MacOS/css/high_resolution.css"
+Debug: <QuickLicenseManager><creationDateUtc>2022-07-28 18:26:32</creationDateUtc><result>Your license was successfully activated.</result><pckey>UNQT0T0400G2HJKM8P1G6513PVPKFJ4CNH</pckey><computerID>Idongs-Mac-mini.local</computerID><userCompany></userCompany><userFullName>Idongesit Eakin</userFullName><userEmail>idongwilson@gmail.com</userEmail><productID>6</productID><productName>VidzFX</productName><majorVersion>1</majorVersion><minorVersion>0</minorVersion><status>2</status><features>0:2;</features><duration>-1</duration><floatingSeats>0</floatingSeats><numActivationsAllowed>1</numActivationsAllowed><availableLicenses>1</availableLicenses><expiryDate>1899-12-30 00:00</expiryDate><activationKey>AMTP0R0R00GHJ3K18N3Q6S14ME2SAPISXKUA4M</activationKey><userData></userData><serverDate>2022-07-28 18:26</serverDate><computerType>None</computerType></QuickLicenseManager>
+Debug: <QuickLicenseManager><creationDateUtc>2022-07-28 18:41:55</creationDateUtc><pckey>UNQT0T0400G2HJKM8P1G6513PVPKFJ4CNH</pckey><computerID>Idongs-Mac-mini.local</computerID><userCompany></userCompany><userFullName>Idongesit Eakin</userFullName><userEmail>idongwilson@gmail.com</userEmail><productID>6</productID><productName>VidzFX</productName><majorVersion>1</majorVersion><minorVersion>0</minorVersion><licenseModel>-1</licenseModel><result>Your license is valid and entitles you to install 1 copy of VidzFX.</result><status>2</status><features>0:2;</features><duration>-1</duration><floatingSeats>0</floatingSeats><numActivationsAllowed>1</numActivationsAllowed><availableLicenses>0</availableLicenses><expiryDate>1899-12-30 00:00</expiryDate><activationKey>AMTP0R0R00GHJ3K18N3Q6S14ME2SAPISXKUA4M</activationKey><userData></userData><activationDate>2022-07-28 18:26</activationDate><serverDate>2022-07-28 18:41</serverDate><computerType>None</computerType></QuickLicenseManager>
+Debug: Downloading file:  "vidzfx.s3.amazonaws.com/updates/mac/appcast.xml" to:  "/var/folders/l3/wrbl61pd0jx7fm2gyzd17sgc0000gn/T/appcast.xml"
+Debug: "\"/Applications/VidzFX.app/Contents/MacOS/wget/wget\" vidzfx.s3.amazonaws.com/updates/mac/appcast.xml -O \"/var/folders/l3/wrbl61pd0jx7fm2gyzd17sgc0000gn/T/appcast.xml\""
+Debug: Downloading file:  "vidzfx.s3.amazonaws.com/updates/content/content.xml" to:  "/var/folders/l3/wrbl61pd0jx7fm2gyzd17sgc0000gn/T/content.xml"
+Debug: "\"/Applications/VidzFX.app/Contents/MacOS/wget/wget\" vidzfx.s3.amazonaws.com/updates/content/content.xml -O \"/var/folders/l3/wrbl61pd0jx7fm2gyzd17sgc0000gn/T/content.xml\""
+Debug: create new project
+Debug: 62
+Debug: 14
+Debug: 5
+Debug: 2
+Debug: 68
+Debug: Fonts:
+Debug: "Academy Engraved LET"
+Debug: "Akshar"
+Debug: "Al Bayan"
+Debug: "Al Nile"
+Debug: "Al Tarikh"
+Debug: "Alex Brush"
+Debug: "Alfa Slab One"
+Debug: "Alike Angular"
+Debug: "Allerta"
+Debug: "Allura"
+Debug: "Alpha Echo"
+Debug: "Alumni Sans Inline One"
+Debug: "American Typewriter"
+Debug: "Andale Mono"
+Debug: "Anonymous Pro"
+Debug: "Antic"
+Debug: "Anton"
+Debug: "Apple Braille"
+Debug: "Apple Chancery"
+Debug: "Apple Color Emoji"
+Debug: "Apple SD Gothic Neo"
+Debug: "Apple Symbols"
+Debug: "AppleGothic"
+Debug: "AppleMyungjo"
+Debug: "Arial"
+Debug: "Arial Black"
+Debug: "Arial Hebrew"
+Debug: "Arial Hebrew Scholar"
+Debug: "Arial Narrow"
+Debug: "Arial Rounded MT Bold"
+Debug: "Arial Unicode MS"
+Debug: "Arimo"
+Debug: "Armalite Rifle"
+Debug: "Athelas"
+Debug: "Avenir"
+Debug: "Avenir Next"
+Debug: "Avenir Next Condensed"
+Debug: "Ayuthaya"
+Debug: "Baghdad"
+Debug: "Balsamiq Sans"
+Debug: "Bangers"
+Debug: "Bangla MN"
+Debug: "Bangla Sangam MN"
+Debug: "Baskerville"
+Debug: "Be Vietnam Pro"
+Debug: "Beirut"
+Debug: "Belgrano"
+Debug: "Big Caslon"
+Debug: "Blinker"
+Debug: "Bodoni 72"
+Debug: "Bodoni 72 Oldstyle"
+Debug: "Bodoni 72 Smallcaps"
+Debug: "Bodoni Ornaments"
+Debug: "Bradley Hand"
+Debug: "Brush Script MT"
+Debug: "Cabin Condensed"
+Debug: "Carter One"
+Debug: "Catamaran"
+Debug: "Caveat"
+Debug: "Chalkboard"
+Debug: "Chalkboard SE"
+Debug: "Chalkduster"
+Debug: "Changa One"
+Debug: "Charter"
+Debug: "Chewy"
+Debug: "ChunkFive"
+Debug: "Cochin"
+Debug: "Comic Sans MS"
+Debug: "Copperplate"
+Debug: "Corsiva Hebrew"
+Debug: "Courier"
+Debug: "Courier New"
+Debug: "Courier Prime"
+Debug: "Covered By Your Grace"
+Debug: "Crimson Pro"
+Debug: "Cunia"
+Debug: "Damascus"
+Debug: "Dancing Script OT"
+Debug: "Darker Grotesque"
+Debug: "Datalegreya"
+Debug: "DecoType Naskh"
+Debug: "Devanagari MT"
+Debug: "Devanagari Sangam MN"
+Debug: "Didot"
+Debug: "DIN Alternate"
+Debug: "DIN Condensed"
+Debug: "Diwan Kufi"
+Debug: "Diwan Thuluth"
+Debug: "Euphemia UCAS"
+Debug: "Farah"
+Debug: "Farisi"
+Debug: "firsttest"
+Debug: "FoglihtenNo01"
+Debug: "Fredericka the Great"
+Debug: "Fredoka One"
+Debug: "Futura"
+Debug: "Galvji"
+Debug: "GB18030 Bitmap"
+Debug: "Geeza Pro"
+Debug: "Geneva"
+Debug: "Georgia"
+Debug: "Gibson"
+Debug: "Gill Sans"
+Debug: "Gloria Hallelujah"
+Debug: "Gochi Hand"
+Debug: "Grantha Sangam MN"
+Debug: "Grape Nuts"
+Debug: "Gujarati MT"
+Debug: "Gujarati Sangam MN"
+Debug: "Gurmukhi MN"
+Debug: "Gurmukhi MT"
+Debug: "Gurmukhi Sangam MN"
+Debug: "Hammersmith One"
+Debug: "Handlee"
+Debug: "Heiti SC"
+Debug: "Heiti TC"
+Debug: "Helsinki"
+Debug: "Helvetica"
+Debug: "Helvetica Neue"
+Debug: "Hepta Slab"
+Debug: "Herculanum"
+Debug: "Hiragino Kaku Gothic Pro"
+Debug: "Hiragino Kaku Gothic ProN"
+Debug: "Hiragino Kaku Gothic Std"
+Debug: "Hiragino Kaku Gothic StdN"
+Debug: "Hiragino Maru Gothic Pro"
+Debug: "Hiragino Maru Gothic ProN"
+Debug: "Hiragino Mincho Pro"
+Debug: "Hiragino Mincho ProN"
+Debug: "Hiragino Sans"
+Debug: "Hiragino Sans GB"
+Debug: "Hoefler Text"
+Debug: "Hominis"
+Debug: "Impact"
+Debug: "InaiMathi"
+Debug: "Indie Flower"
+Debug: "Indigo Outline Font"
+Debug: "Indigo Regular"
+Debug: "Iowan Old Style"
+Debug: "Istok Web"
+Debug: "ITF Devanagari"
+Debug: "ITF Devanagari Marathi"
+Debug: "itsadzoke"
+Debug: "Jost"
+Debug: "Journal"
+Debug: "Julius Sans One"
+Debug: "Kailasa"
+Debug: "Kannada MN"
+Debug: "Kannada Sangam MN"
+Debug: "Kaushan Script"
+Debug: "Kefa"
+Debug: "Khmer MN"
+Debug: "Khmer Sangam MN"
+Debug: "Kohinoor Bangla"
+Debug: "Kohinoor Devanagari"
+Debug: "Kohinoor Gujarati"
+Debug: "Kohinoor Telugu"
+Debug: "Kokonor"
+Debug: "Koulen"
+Debug: "Krub"
+Debug: "Krungthep"
+Debug: "KufiStandardGK"
+Debug: "Lao MN"
+Debug: "Lao Sangam MN"
+Debug: "Lato"
+Debug: "Lemiesz"
+Debug: "Lexend"
+Debug: "LG Smart_0521_HS98"
+Debug: "LG Smart_H"
+Debug: "Lilita One"
+Debug: "Londrina Solid"
+Debug: "Lora"
+Debug: "Lucida Grande"
+Debug: "Luminari"
+Debug: "Malayalam MN"
+Debug: "Malayalam Sangam MN"
+Debug: "Manrope"
+Debug: "Marion"
+Debug: "Marker Felt"
+Debug: "Matiz"
+Debug: "Menlo"
+Debug: "Merienda"
+Debug: "Microsoft Sans Serif"
+Debug: "Mishafi"
+Debug: "Mishafi Gold"
+Debug: "Monaco"
+Debug: "Mshtakan"
+Debug: "Mukta Mahee"
+Debug: "Mukta Vaani"
+Debug: "Muna"
+Debug: "Museo Sans"
+Debug: "Myanmar MN"
+Debug: "Myanmar Sangam MN"
+Debug: "Nadeem"
+Debug: "Nanum Pen"
+Debug: "Neucha"
+Debug: "New Peninim MT"
+Debug: "Noteworthy"
+Debug: "Noto Nastaliq Urdu"
+Debug: "Noto Sans Adlam"
+Debug: "Noto Sans Armenian"
+Debug: "Noto Sans Avestan"
+Debug: "Noto Sans Bamum"
+Debug: "Noto Sans Bassa Vah"
+Debug: "Noto Sans Batak"
+Debug: "Noto Sans Bhaiksuki"
+Debug: "Noto Sans Brahmi"
+Debug: "Noto Sans Buginese"
+Debug: "Noto Sans Buhid"
+Debug: "Noto Sans Carian"
+Debug: "Noto Sans Caucasian Albanian"
+Debug: "Noto Sans Chakma"
+Debug: "Noto Sans Cham"
+Debug: "Noto Sans Coptic"
+Debug: "Noto Sans Cuneiform"
+Debug: "Noto Sans Cypriot"
+Debug: "Noto Sans Duployan"
+Debug: "Noto Sans Egyptian Hieroglyphs"
+Debug: "Noto Sans Elbasan"
+Debug: "Noto Sans Glagolitic"
+Debug: "Noto Sans Gothic"
+Debug: "Noto Sans Gunjala Gondi"
+Debug: "Noto Sans Hanifi Rohingya"
+Debug: "Noto Sans Hanunoo"
+Debug: "Noto Sans Hatran"
+Debug: "Noto Sans Imperial Aramaic"
+Debug: "Noto Sans Inscriptional Pahlavi"
+Debug: "Noto Sans Inscriptional Parthian"
+Debug: "Noto Sans Javanese"
+Debug: "Noto Sans Kaithi"
+Debug: "Noto Sans Kannada"
+Debug: "Noto Sans Kayah Li"
+Debug: "Noto Sans Kharoshthi"
+Debug: "Noto Sans Khojki"
+Debug: "Noto Sans Khudawadi"
+Debug: "Noto Sans Lepcha"
+Debug: "Noto Sans Limbu"
+Debug: "Noto Sans Linear A"
+Debug: "Noto Sans Linear B"
+Debug: "Noto Sans Lisu"
+Debug: "Noto Sans Lycian"
+Debug: "Noto Sans Lydian"
+Debug: "Noto Sans Mahajani"
+Debug: "Noto Sans Mandaic"
+Debug: "Noto Sans Manichaean"
+Debug: "Noto Sans Marchen"
+Debug: "Noto Sans Masaram Gondi"
+Debug: "Noto Sans Meetei Mayek"
+Debug: "Noto Sans Mende Kikakui"
+Debug: "Noto Sans Meroitic"
+Debug: "Noto Sans Miao"
+Debug: "Noto Sans Modi"
+Debug: "Noto Sans Mongolian"
+Debug: "Noto Sans Mro"
+Debug: "Noto Sans Multani"
+Debug: "Noto Sans Myanmar"
+Debug: "Noto Sans Nabataean"
+Debug: "Noto Sans New Tai Lue"
+Debug: "Noto Sans Newa"
+Debug: "Noto Sans NKo"
+Debug: "Noto Sans Ol Chiki"
+Debug: "Noto Sans Old Hungarian"
+Debug: "Noto Sans Old Italic"
+Debug: "Noto Sans Old North Arabian"
+Debug: "Noto Sans Old Permic"
+Debug: "Noto Sans Old Persian"
+Debug: "Noto Sans Old South Arabian"
+Debug: "Noto Sans Old Turkic"
+Debug: "Noto Sans Oriya"
+Debug: "Noto Sans Osage"
+Debug: "Noto Sans Osmanya"
+Debug: "Noto Sans Pahawh Hmong"
+Debug: "Noto Sans Palmyrene"
+Debug: "Noto Sans Pau Cin Hau"
+Debug: "Noto Sans PhagsPa"
+Debug: "Noto Sans Phoenician"
+Debug: "Noto Sans Psalter Pahlavi"
+Debug: "Noto Sans Rejang"
+Debug: "Noto Sans Samaritan"
+Debug: "Noto Sans Saurashtra"
+Debug: "Noto Sans Sharada"
+Debug: "Noto Sans Siddham"
+Debug: "Noto Sans Sora Sompeng"
+Debug: "Noto Sans Sundanese"
+Debug: "Noto Sans Syloti Nagri"
+Debug: "Noto Sans Syriac"
+Debug: "Noto Sans Tagalog"
+Debug: "Noto Sans Tagbanwa"
+Debug: "Noto Sans Tai Le"
+Debug: "Noto Sans Tai Tham"
+Debug: "Noto Sans Tai Viet"
+Debug: "Noto Sans Takri"
+Debug: "Noto Sans Thaana"
+Debug: "Noto Sans Tifinagh"
+Debug: "Noto Sans Tirhuta"
+Debug: "Noto Sans Ugaritic"
+Debug: "Noto Sans Vai"
+Debug: "Noto Sans Wancho"
+Debug: "Noto Sans Warang Citi"
+Debug: "Noto Sans Yi"
+Debug: "Noto Sans Zawgyi"
+Debug: "Noto Serif"
+Debug: "Noto Serif Ahom"
+Debug: "Noto Serif Balinese"
+Debug: "Noto Serif Myanmar"
+Debug: "Noto Serif Yezidi"
+Debug: "Odibee Sans"
+Debug: "Optima"
+Debug: "Oriya MN"
+Debug: "Oriya Sangam MN"
+Debug: "Oswald"
+Debug: "Palanquin Dark"
+Debug: "Palatino"
+Debug: "Pangolin"
+Debug: "Papyrus"
+Debug: "Party LET"
+Debug: "Passion One"
+Debug: "Permanent Marker"
+Debug: "Phosphate"
+Debug: "PingFang HK"
+Debug: "PingFang SC"
+Debug: "PingFang TC"
+Debug: "Plantagenet Cherokee"
+Debug: "Poiret One"
+Debug: "Poppins"
+Debug: "PT Mono"
+Debug: "PT Sans"
+Debug: "PT Sans Caption"
+Debug: "PT Sans Narrow"
+Debug: "PT Serif"
+Debug: "PT Serif Caption"
+Debug: "Pusab"
+Debug: "Quantico"
+Debug: "Quicksand"
+Debug: "Raanana"
+Debug: "Red Hat Display"
+Debug: "Righteous"
+Debug: "Roboto Serif"
+Debug: "Rockwell"
+Debug: "RODE Noto Sans CJK SC B"
+Debug: "RODE Noto Sans CJK SC R"
+Debug: "RODE Noto Sans Hindi B"
+Debug: "RODE Noto Sans Hindi R"
+Debug: "Rubik Bubbles"
+Debug: "Rubik Glitch"
+Debug: "Russo One"
+Debug: "Saira Condensed"
+Debug: "Sana"
+Debug: "Sansita"
+Debug: "Sarabun"
+Debug: "Sathu"
+Debug: "Satisfy"
+Debug: "Savoye LET"
+Debug: "Secular One"
+Debug: "Seravek"
+Debug: "Shree Devanagari 714"
+Debug: "Sigmar One"
+Debug: "SignPainter"
+Debug: "Silom"
+Debug: "Sinhala MN"
+Debug: "Sinhala Sangam MN"
+Debug: "Skia"
+Debug: "Skranji"
+Debug: "Smooch"
+Debug: "Snell Roundhand"
+Debug: "Songti SC"
+Debug: "Songti TC"
+Debug: "Special Elite"
+Debug: "Square Peg"
+Debug: "Stint Ultra Condensed"
+Debug: "STIXGeneral"
+Debug: "STIXIntegralsD"
+Debug: "STIXIntegralsSm"
+Debug: "STIXIntegralsUp"
+Debug: "STIXIntegralsUpD"
+Debug: "STIXIntegralsUpSm"
+Debug: "STIXNonUnicode"
+Debug: "STIXSizeFiveSym"
+Debug: "STIXSizeFourSym"
+Debug: "STIXSizeOneSym"
+Debug: "STIXSizeThreeSym"
+Debug: "STIXSizeTwoSym"
+Debug: "STIXVariants"
+Debug: "STSong"
+Debug: "Sukhumvit Set"
+Debug: "Superclarendon"
+Debug: "Symbol"
+Debug: "Tahoma"
+Debug: "Tamil MN"
+Debug: "Tamil Sangam MN"
+Debug: "Teko"
+Debug: "Telugu MN"
+Debug: "Telugu Sangam MN"
+Debug: "Thonburi"
+Debug: "Times"
+Debug: "Times New Roman"
+Debug: "Trattatello"
+Debug: "Trebuchet MS"
+Debug: "True Crimes"
+Debug: "Ubuntu"
+Debug: "Ultra"
+Debug: "Umbrage"
+Debug: "Urbanist"
+Debug: "Verdana"
+Debug: "Waseem"
+Debug: "Webdings"
+Debug: "Wingdings"
+Debug: "Wingdings 2"
+Debug: "Wingdings 3"
+Debug: "Xenophone"
+Debug: "YoungSerif"
+Debug: "Zapf Dingbats"
+Debug: "Zapfino"
+Warning: QMetaObject::connectSlotsByName: No matching signal for on_spbVolume_valueChanged(int)
+Warning: Could not parse stylesheet of object 0x6000021a75a0
+Warning: QMetaObject::connectSlotsByName: No matching signal for on_btnTextBkgClr_clicked()
+Debug: drag enter. Slide number: 3 0
+Debug: drag enter. Slide number: 6 0
+Debug: Number of screens: 2
+Debug: Primary screen: ""
+Debug:   Information for screen:     ""
+Debug:   Available geometry:         0 25 1920 x 985
+Debug:   Available size:             1920 x 985
+Debug:   Available virtual geometry: -1504 25 3424 x 985
+Debug:   Available virtual size:     3424 x 985
+Debug:   Depth:                      24 bits
+Debug:   Geometry:                   0 0 1920 x 1080
+Debug:   Logical DPI:                72
+Debug:   Logical DPI X:              72
+Debug:   Logical DPI Y:              72
+Debug:   Orientation:                "Landscape"
+Debug:   Physical DPI:               69
+Debug:   Physical DPI X:             69.5
+Debug:   Physical DPI Y:             68.5
+Debug:   Physical size:              701.698 x 400.467 mm
+Debug:   Primary orientation:        "Landscape"
+Debug:   Refresh rate:               60 Hz
+Debug:   Size:                       1920 x 1080
+Debug:   Virtual geometry:           -1504 0 3424 x 1080
+Debug:   Virtual size:               3424 x 1080
+Debug:   Device Pixel Ratio:         2
+Debug:   Information for screen:     ""
+Debug:   Available geometry:         -1504 25 1504 x 821
+Debug:   Available size:             1504 x 821
+Debug:   Available virtual geometry: -1504 25 3424 x 985
+Debug:   Available virtual size:     3424 x 985
+Debug:   Depth:                      24 bits
+Debug:   Geometry:                   -1504 0 1504 x 846
+Debug:   Logical DPI:                72
+Debug:   Logical DPI X:              72
+Debug:   Logical DPI Y:              72
+Debug:   Orientation:                "Landscape"
+Debug:   Physical DPI:               54
+Debug:   Physical DPI X:             54.5
+Debug:   Physical DPI Y:             53.5
+Debug:   Physical size:              700.947 x 401.652 mm
+Debug:   Primary orientation:        "Landscape"
+Debug:   Refresh rate:               60 Hz
+Debug:   Size:                       1504 x 846
+Debug:   Virtual geometry:           -1504 0 3424 x 1080
+Debug:   Virtual size:               3424 x 1080
+Debug:   Device Pixel Ratio:         2
+Debug: information "width=1920 logical=72 factor=0.75"
+Debug: "/Applications/VidzFX.app/Contents/MacOS/css/high_resolution.css"
+Debug: Invalid signature
+Debug: <QuickLicenseManager><creationDateUtc>2022-07-28 19:13:43</creationDateUtc><pckey>UNQT0T0400G2HJKM8P1G6513PVPKFJ4CNH</pckey><computerID>Idongs-Mac-mini.local</computerID><userCompany></userCompany><userFullName>Idongesit Eakin</userFullName><userEmail>idongwilson@gmail.com</userEmail><productID>6</productID><productName>VidzFX</productName><majorVersion>1</majorVersion><minorVersion>0</minorVersion><licenseModel>-1</licenseModel><result>Your license is valid and entitles you to install 1 copy of VidzFX.</result><status>2</status><features>0:2;</features><duration>-1</duration><floatingSeats>0</floatingSeats><numActivationsAllowed>1</numActivationsAllowed><availableLicenses>0</availableLicenses><expiryDate>1899-12-30 00:00</expiryDate><activationKey>AMTP0R0R00GHJ3K18N3Q6S14ME2SAPISXKUA4M</activationKey><userData></userData><activationDate>2022-07-28 18:26</activationDate><serverDate>2022-07-28 19:13</serverDate><computerType>None</computerType></QuickLicenseManager>
+Debug: Downloading file:  "vidzfx.s3.amazonaws.com/updates/mac/appcast.xml" to:  "/var/folders/l3/wrbl61pd0jx7fm2gyzd17sgc0000gn/T/appcast.xml"
+Debug: "\"/Applications/VidzFX.app/Contents/MacOS/wget/wget\" vidzfx.s3.amazonaws.com/updates/mac/appcast.xml -O \"/var/folders/l3/wrbl61pd0jx7fm2gyzd17sgc0000gn/T/appcast.xml\""
+Debug: Downloading file:  "vidzfx.s3.amazonaws.com/updates/content/content.xml" to:  "/var/folders/l3/wrbl61pd0jx7fm2gyzd17sgc0000gn/T/content.xml"
+Debug: "\"/Applications/VidzFX.app/Contents/MacOS/wget/wget\" vidzfx.s3.amazonaws.com/updates/content/content.xml -O \"/var/folders/l3/wrbl61pd0jx7fm2gyzd17sgc0000gn/T/content.xml\""
+Debug: Downloading file:  "vidzfx.s3.amazonaws.com/updates/content/Max/15.rar" to:  "/var/folders/l3/wrbl61pd0jx7fm2gyzd17sgc0000gn/T/content.rar"
+Debug: "\"/Applications/VidzFX.app/Contents/MacOS/wget/wget\" vidzfx.s3.amazonaws.com/updates/content/Max/15.rar -O \"/var/folders/l3/wrbl61pd0jx7fm2gyzd17sgc0000gn/T/content.rar\""
+Debug: "\"/Applications/VidzFX.app/Contents/MacOS/rar\" x -o+ \"/var/folders/l3/wrbl61pd0jx7fm2gyzd17sgc0000gn/T/content.rar\" *.* \"/Users/idongwilson/Library/Application Support/VidzFX/content\""
+Warning: Window position outside any known screen, using primary screen
+Debug: Number of screens: 2
+Debug: Primary screen: ""
+Debug:   Information for screen:     ""
+Debug:   Available geometry:         0 25 1920 x 982
+Debug:   Available size:             1920 x 982
+Debug:   Available virtual geometry: -1504 25 3424 x 982
+Debug:   Available virtual size:     3424 x 982
+Debug:   Depth:                      24 bits
+Debug:   Geometry:                   0 0 1920 x 1080
+Debug:   Logical DPI:                72
+Debug:   Logical DPI X:              72
+Debug:   Logical DPI Y:              72
+Debug:   Orientation:                "Landscape"
+Debug:   Physical DPI:               69
+Debug:   Physical DPI X:             69.5
+Debug:   Physical DPI Y:             68.5
+Debug:   Physical size:              701.698 x 400.467 mm
+Debug:   Primary orientation:        "Landscape"
+Debug:   Refresh rate:               60 Hz
+Debug:   Size:                       1920 x 1080
+Debug:   Virtual geometry:           -1504 0 3424 x 1080
+Debug:   Virtual size:               3424 x 1080
+Debug:   Device Pixel Ratio:         2
+Debug:   Information for screen:     ""
+Debug:   Available geometry:         -1504 25 1504 x 821
+Debug:   Available size:             1504 x 821
+Debug:   Available virtual geometry: -1504 25 3424 x 982
+Debug:   Available virtual size:     3424 x 982
+Debug:   Depth:                      24 bits
+Debug:   Geometry:                   -1504 0 1504 x 846
+Debug:   Logical DPI:                72
+Debug:   Logical DPI X:              72
+Debug:   Logical DPI Y:              72
+Debug:   Orientation:                "Landscape"
+Debug:   Physical DPI:               54
+Debug:   Physical DPI X:             54.5
+Debug:   Physical DPI Y:             53.5
+Debug:   Physical size:              700.947 x 401.652 mm
+Debug:   Primary orientation:        "Landscape"
+Debug:   Refresh rate:               60 Hz
+Debug:   Size:                       1504 x 846
+Debug:   Virtual geometry:           -1504 0 3424 x 1080
+Debug:   Virtual size:               3424 x 1080
+Debug:   Device Pixel Ratio:         2
+Debug: information "width=1920 logical=72 factor=0.75"
+Debug: "/Applications/VidzFX.app/Contents/MacOS/css/high_resolution.css"
+Debug: <QuickLicenseManager><creationDateUtc>2022-07-28 19:13:43</creationDateUtc><pckey>UNQT0T0400G2HJKM8P1G6513PVPKFJ4CNH</pckey><computerID>Idongs-Mac-mini.local</computerID><userCompany></userCompany><userFullName>Idongesit Eakin</userFullName><userEmail>idongwilson@gmail.com</userEmail><productID>6</productID><productName>VidzFX</productName><majorVersion>1</majorVersion><minorVersion>0</minorVersion><licenseModel>-1</licenseModel><result>Your license is valid and entitles you to install 1 copy of VidzFX.</result><status>2</status><features>0:2;</features><duration>-1</duration><floatingSeats>0</floatingSeats><numActivationsAllowed>1</numActivationsAllowed><availableLicenses>0</availableLicenses><expiryDate>1899-12-30 00:00</expiryDate><activationKey>AMTP0R0R00GHJ3K18N3Q6S14ME2SAPISXKUA4M</activationKey><userData></userData><activationDate>2022-07-28 18:26</activationDate><serverDate>2022-07-28 19:13</serverDate><computerType>None</computerType></QuickLicenseManager>
+Debug: <QuickLicenseManager><creationDateUtc>2022-07-31 05:32:04</creationDateUtc><pckey>UNQT0T0400G2HJKM8P1G6513PVPKFJ4CNH</pckey><computerID>Idongs-Mac-mini.local</computerID><userCompany></userCompany><userFullName>Idongesit Eakin</userFullName><userEmail>idongwilson@gmail.com</userEmail><productID>6</productID><productName>VidzFX</productName><majorVersion>1</majorVersion><minorVersion>0</minorVersion><error>The license for activation key AMTP0R0R00GHJ3K18N3Q6S14ME2SAPISXKUA4M was revoked. You can no longer use this license.</error><errorCode>201</errorCode><status>2048</status><features>0:2;</features><duration>-1</duration><floatingSeats>0</floatingSeats><numActivationsAllowed>1</numActivationsAllowed><availableLicenses>0</availableLicenses><expiryDate>1899-12-30 00:00</expiryDate><activationKey>AMTP0R0R00GHJ3K18N3Q6S14ME2SAPISXKUA4M</activationKey><userData></userData><activationDate>2022-07-28 18:26</activationDate><serverDate>2022-07-31 05:32</serverDate><computerType>None</computerType></QuickLicenseManager>
+Debug: Downloading file:  "vidzfx.s3.amazonaws.com/updates/mac/appcast.xml" to:  "/var/folders/l3/wrbl61pd0jx7fm2gyzd17sgc0000gn/T/appcast.xml"
+Debug: "\"/Applications/VidzFX.app/Contents/MacOS/wget/wget\" vidzfx.s3.amazonaws.com/updates/mac/appcast.xml -O \"/var/folders/l3/wrbl61pd0jx7fm2gyzd17sgc0000gn/T/appcast.xml\""
+Debug: Downloading file:  "vidzfx.s3.amazonaws.com/updates/content/content.xml" to:  "/var/folders/l3/wrbl61pd0jx7fm2gyzd17sgc0000gn/T/content.xml"
+Debug: "\"/Applications/VidzFX.app/Contents/MacOS/wget/wget\" vidzfx.s3.amazonaws.com/updates/content/content.xml -O \"/var/folders/l3/wrbl61pd0jx7fm2gyzd17sgc0000gn/T/content.xml\""
